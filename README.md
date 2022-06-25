@@ -93,6 +93,13 @@ Easy way to play with the tool without installing anything, but obviously, it wi
 
 ### Option 2: npm (recommended)
 
+Install from github
+
+```sh
+npm i -D https://github.com/impulse-oss/impulse
+```
+install from npm registry
+
 ```sh
 npm i -D @impulse.dev/runtime@latest
 ```
@@ -197,7 +204,7 @@ Requirements:
 Clone the repo:
 
 ```sh
-git clone git@github.com:kirillrogovoy/impulse.git && cd impulse
+git clone https://github.com/kirillrogovoy/impulse.git && cd impulse
 ```
 
 Install dependencies:
